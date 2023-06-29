@@ -9,7 +9,7 @@
 as-bestinclass/as-bestinclass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hola! <img src="" width="28px" alt="👋"></h1>
+<h1 align="center">Hola! 👋</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>

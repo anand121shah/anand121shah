@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/wervlad)
--->
+
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 </details>
-
+-->
 <p align="center">
   <a href="https://github.com/as-bestinclass">
     <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />

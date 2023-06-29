@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
         I'm a AL, ML and DS investee.<br>
         Please check out my public repos and fork the codes if you find a good usecase of it.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/wervlad">
+    <a href="https://www.linkedin.com/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:as.bestinclass@gmail.com">

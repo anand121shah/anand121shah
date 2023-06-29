@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm as-bestinclass of github.<br>
-        I'm a AL, ML and DS investee.<br>
-        Please check out my public repos and fork the codes if you find a good usecase of it.<br>
+        👋 Hi, I’m @as-bestinclass of Github.<br>
+        👀 I’m interested in doing and exploring new stuff while deeply enjoying what I am doing.<br>
+        💞️ I’m looking to participate in the Dataframe analysis of your project. I understand numpy, pandas, sklearn, scikit, scipy, tensorflow, matplotlib. I will stats the heck out your data eventually.<br>
     </i><br>
     <a href="https://www.linkedin.com/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">

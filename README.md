@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        👋 Hi, I’m @as-bestinclass of Github. (anand if you know me in real life)<br>
+        👋 Hi, I’m @as-bestinclass of Github.<br>
         👀 I’m interested in doing and exploring new stuff while deeply enjoying what I am doing.<br>
         💞️ I’m looking to participate in the Dataframe analysis of your project. I understand numpy, pandas, sklearn, scikit, scipy, tensorflow, matplotlib. I will stats the heck out your data eventually.<br>
     </i><br>

@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
         👀 I’m interested in doing and exploring new stuff while deeply enjoying what I am doing.<br>
         💞️ I’m looking to participate in the Dataframe analysis of your project. I understand numpy, pandas, sklearn, scikit, scipy, tensorflow, matplotlib. I will stats the heck out your data eventually.<br>
     </i><br>
-    <a href="https://www.linkedin.com/">
+    <a href="https://www.linkedin.com/](https://www.linkedin.com/in/anand-shah-41461416a">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:as.bestinclass@gmail.com">

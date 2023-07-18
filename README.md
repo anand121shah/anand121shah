@@ -1,7 +1,6 @@
 # Hola! 👋
 ## Welcome to my page!
 
-![Profile Image]([https://your-image-url.jpg](https://avatars.githubusercontent.com/u/56280454?v=4))
 
 👋 Hi, I’m [@as-bestinclass](https://github.com/as-bestinclass) of GitHub.
 👀 I’m interested in doing and exploring new stuff while deeply enjoying what I am doing.

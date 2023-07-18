@@ -42,18 +42,20 @@ You can click the Preview link to take a look at your changes.
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/as-bestinclass)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/as-bestinclass)
 
-## DS Libs
+### DS Libs
 
-- Django
-- Flask
-- TensorFlow
-- PyTorch
-- Keras
-- scikit-learn
-- Pygame
-- Twisted
-- FastAPI
-- Tornado
+- [Django](https://docs.djangoproject.com/)
+- [Flask](https://flask.palletsprojects.com/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [PyTorch](https://pytorch.org/)
+- [Keras](https://keras.io/)
+- [scikit-learn](https://scikit-learn.org/)
+- [Pygame](https://www.pygame.org/docs/)
+- [Twisted](https://twistedmatrix.com/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [Tornado](https://www.tornadoweb.org/en/stable/)
+
+You can click on the hyperlinks to access the respective documentation for each library/framework.
 
 These libraries and frameworks provide powerful tools and capabilities for various data science and development tasks.
 <!--

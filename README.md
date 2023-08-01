@@ -16,17 +16,8 @@
 - SQL
 
 ## DS Libs
-- Django
 - Flask
 - TensorFlow
 - PyTorch
 - Keras
 - scikit-learn
-- Pygame
-- Twisted
-- FastAPI
-- Tornado
-
-You can click on the hyperlinks to access the respective documentation for each library/framework.
-
-These libraries and frameworks provide powerful tools and capabilities for various data science and development tasks.

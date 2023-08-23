@@ -1,4 +1,4 @@
-# Anand Shah - Data Scientist/ML Engineer 🧠💻
+# Anand - Data Scientist/ML Engineer 🧠💻
 
 [Connect on LinkedIn](https://www.linkedin.com/in/anand-shah-ds)
 

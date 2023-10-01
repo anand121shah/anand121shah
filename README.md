@@ -1,5 +1,4 @@
 ### Status:To what extent is it necessary for programmers to be educated in human psychology in order to develop deep learning models that can effectively imitate human intelligence?
-" If Deep Learning is 
 
 # Anand - Data Scientist/ML Engineer 🧠💻
 

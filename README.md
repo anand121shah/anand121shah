@@ -1,5 +1,5 @@
 ##### Status: Why isn't human psychology part of the curriculum for programmers, given that neural networks, including advanced language models, benefit from human-like interaction strategies?
-##### Currently working on LLM
+##### Currently working on LLMs and tuning.
 
 # Anand - Data Scientist/ML Engineer 🧠💻
 

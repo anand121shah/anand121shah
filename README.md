@@ -1,4 +1,4 @@
-# Anand - Data Scientist 🧠 | Software Engineer 💻
+# Anand - Data Scientist 🧠 | Software Developer 💻
 
 [Connect on LinkedIn](https://www.linkedin.com/in/anand-shah-ds)
 

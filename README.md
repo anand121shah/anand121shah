@@ -1,7 +1,4 @@
-##### Status: Why isn't human psychology part of the curriculum for programmers, given that neural networks, including advanced language models, benefit from human-like interaction strategies?
-##### Currently working on LLMs, Hyperparameters and finetuning.
-
-# Anand - Data Scientist/ML Engineer 🧠💻
+# Anand - Data Scientist 🧠 | Software Engineer 💻
 
 [Connect on LinkedIn](https://www.linkedin.com/in/anand-shah-ds)
 
@@ -19,22 +16,22 @@ Passionate about **machine learning**, **deep learning**, and **statistical mode
 - 🧮 Statistical Modeling, Optimization
 
 #### Statistical Software 📊
-- R, SAS, SPSS, MATLAB, Wolfram Alpha Computational Language
+- R
 
 #### Languages & Libraries 📚
-- Python, R, SQL, C++, Java, CSS, JavaScript
+- Python, R, C++, Java, JavaScript
 
 #### Extensive Python Libraries 🐍
 - TensorFlow, Keras, PyTorch, LightGBM, XGBoost, and many more
 
 #### Data Visualization & Data Reporting Tools 📉
-- Tableau, PowerBI, Seaborn/Matplotlib, Plotly, Excel
+- PowerBI, Seaborn/Matplotlib, Plotly, MS Excel
 
-#### Databases 🗃️
-- SQL, MySQL, PostgreSQL, Hive, MongoDB
+#### Query Languages 🗃️
+- KQL, SQL, Hive, MongoDB
 
-#### Cloud Technologies ☁️
-- AWS, Azure, IBM Quantum Computer Lab
+#### Data Pipelines
+- Azure Log Analytics, Tableau, Snowflake
 
 #### Machine Learning Techniques 🤖
 - Regression Analysis, Naive Bayes, Decision Tree, Neural Networks

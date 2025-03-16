@@ -1,42 +1,47 @@
-# Anand - Data Scientist 🧠 | Software Developer 💻
+# Anand - Data Scientist 🧠 | Software Developer 💻 | AI Innovator 🚀  
 
-[Connect on LinkedIn](https://www.linkedin.com/in/anand-shah-ds)
+[🔗 Connect on LinkedIn](https://www.linkedin.com/in/anand-shah-ds)  
 
-## 📝 PROFILE SUMMARY
+## 📝 PROFILE SUMMARY  
 
-Passionate about **machine learning**, **deep learning**, and **statistical modeling**. With proficiency in Python, R, SQL, and various statistical technologies, I leverage data analytics to drive strategic decision-making and solve complex business problems. Looking to apply my expertise in an innovative and challenging role.
+Driven by **data**, powered by **algorithms**, and optimized for **scalability**.  
+Specializing in **Machine Learning, Graph Analytics, and AI-driven Optimization**, I design and implement **data-centric solutions** that enhance automation, efficiency, and strategic decision-making. Proficient in **Python, R, SQL, and cloud-based architectures**, with a strong foundation in **predictive modeling, statistical inference, and real-time analytics**.  
 
-### 🧩 TECHNICAL SKILLS
+🚀 Passionate about **solving complex problems** through data science, harnessing **graph-based intelligence**, and scaling AI-powered insights for impactful business outcomes.  
 
-#### Algorithms 🎛️
-- 🤖 Machine Learning: Neural Networks, Deep Learning, Ensemble Methods
-- 🗣️ Natural Language Processing/Sentiment Analysis
-- 🔍 Prediction, Pattern Identification, Data/Text Mining
-- 📈 Logistic Regression, K-Means Clustering, Classification
-- 🧮 Statistical Modeling, Optimization
+---
 
-#### Statistical Software 📊
-- R
+## 🧩 TECHNICAL SKILLS  
 
-#### Languages & Libraries 📚
-- Python, R, C++, Java, JavaScript
+### 🔍 **Algorithms & AI Frameworks**  
+- 🤖 **Machine Learning:** Regression, Classification, Clustering, Anomaly Detection  
+- 📊 **Time Series Forecasting:** ARIMA, Prophet, Bayesian Optimization  
+- 🗣️ **Natural Language Processing (NLP):** Sentiment Analysis, Named Entity Recognition (NER), Transformer Models  
+- 🔗 **Graph Data Science:** PageRank, Community Detection, Network Science  
 
-#### Extensive Python Libraries 🐍
-- TensorFlow, Keras, PyTorch, LightGBM, XGBoost, and many more
+### 📚 **Programming & Development**  
+- **Languages:** Python, R, C++, Java, Scala  
+- **Frameworks:** TensorFlow, PyTorch, Scikit-learn, Hugging Face  
 
-#### Data Visualization & Data Reporting Tools 📉
-- PowerBI, Seaborn/Matplotlib, Plotly, MS Excel
+### 🗃️ **Data Engineering & Cloud Technologies**  
+- **Databases:** PostgreSQL, MySQL, Snowflake, MongoDB, DynamoDB  
+- **Cloud Platforms:** AWS (Neptune, S3), Microsoft Azure (ML Studio, Synapse), Google Cloud (BigQuery, Vertex AI)  
+- **ETL & Data Pipelines:** Azure Log Analytics, Kubernetes, GitLab CI/CD  
 
-#### Query Languages 🗃️
-- KQL, SQL, Hive, MongoDB
+### 📉 **Data Visualization & Insights**  
+- **Tools:** Tableau, Power BI, Seaborn, Matplotlib, Plotly, NetworkX  
+- **Interactive Dashboards:** Custom KPI visualizations for business intelligence  
 
-#### Data Pipelines
-- Azure Log Analytics, Tableau, Snowflake
+### 🔬 **Experimentation & Statistical Modeling**  
+- **A/B Testing & Hypothesis Testing**  
+- **Bayesian Statistics & Multivariate Analysis**  
+- **Graph-Based Recommender Systems**  
 
-#### Machine Learning Techniques 🤖
-- Regression Analysis, Naive Bayes, Decision Tree, Neural Networks
+---
 
-## 🚀 MISSION
+## 🚀 MISSION  
 
-Seeking a challenging collaboration to apply my expertise in machine learning, statistical modeling, and data analysis. Dedicated to utilizing advanced algorithms and techniques to extract meaningful insights and solve complex business problems. Committed to driving data-driven decision-making and contributing to organizational success.
+Building **scalable AI systems** and **intelligent data pipelines** that drive **automation, efficiency, and innovation**.  
+Dedicated to **harnessing the power of data**, refining **predictive analytics**, and leveraging **cutting-edge AI techniques** to solve real-world challenges.  
 
+💡 *"Turning raw data into actionable intelligence—one model at a time."*  

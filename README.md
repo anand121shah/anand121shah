@@ -1,47 +1,50 @@
-# Anand - Data Scientist 🧠 | Software Developer 💻 | AI Innovator 🚀  
+# Anand Shah  
 
-[🔗 Connect on LinkedIn](https://www.linkedin.com/in/anand-shah-ds)  
+[🔗 Connect on LinkedIn](https://www.linkedin.com/in/anand-shah-ds)
 
 ## 📝 PROFILE SUMMARY  
 
-Driven by **data**, powered by **algorithms**, and optimized for **scalability**.  
-Specializing in **Machine Learning, Graph Analytics, and AI-driven Optimization**, I design and implement **data-centric solutions** that enhance automation, efficiency, and strategic decision-making. Proficient in **Python, R, SQL, and cloud-based architectures**, with a strong foundation in **predictive modeling, statistical inference, and real-time analytics**.  
+Tech professional focused on **ML Operations**, **forecasting pipelines**, and **decision-ready analytics**. I build **modular, scalable ML workflows**—from data ingestion and feature engineering to model evaluation, deployment patterns, and stakeholder-facing dashboards—so teams can trust and operationalize predictions.  
 
-🚀 Passionate about **solving complex problems** through data science, harnessing **graph-based intelligence**, and scaling AI-powered insights for impactful business outcomes.  
+My recent work centers on **time series forecasting**, **revenue/behavior analytics**, and **production-minded practices** (versioning, QA, monitoring metrics, and automation), with strong hands-on execution across **Python, SQL, cloud platforms (Azure/AWS), and Snowflake**.  
 
 ---
 
 ## 🧩 TECHNICAL SKILLS  
 
-### 🔍 **Algorithms & AI Frameworks**  
-- 🤖 **Machine Learning:** Regression, Classification, Clustering, Anomaly Detection  
-- 📊 **Time Series Forecasting:** ARIMA, Prophet, Bayesian Optimization  
-- 🗣️ **Natural Language Processing (NLP):** Sentiment Analysis, Named Entity Recognition (NER), Transformer Models  
-- 🔗 **Graph Data Science:** PageRank, Community Detection, Network Science  
+### 🤖 **Machine Learning & MLOps**
+- **Modeling:** Regression, Classification, Clustering, Anomaly Detection  
+- **Time Series:** Prophet, ARIMA-style methods, backtesting, error tracking (e.g., MAPE)  
+- **MLOps Practices:** modular pipeline design, model QA, monitoring/metrics, reproducible experiments, CI/CD awareness  
 
-### 📚 **Programming & Development**  
-- **Languages:** Python, R, C++, Java, Scala  
-- **Frameworks:** TensorFlow, PyTorch, Scikit-learn, Hugging Face  
+### 🧠 **Analytics & Experimentation**
+- **Statistical Inference:** hypothesis testing, confidence intervals, segmentation, cohort/retention analysis  
+- **Experimentation:** A/B testing design & interpretation, bias/variance thinking, KPI definition  
 
-### 🗃️ **Data Engineering & Cloud Technologies**  
-- **Databases:** PostgreSQL, MySQL, Snowflake, MongoDB, DynamoDB  
-- **Cloud Platforms:** AWS (Neptune, S3), Microsoft Azure (ML Studio, Synapse), Google Cloud (BigQuery, Vertex AI)  
-- **ETL & Data Pipelines:** Azure Log Analytics, Kubernetes, GitLab CI/CD  
+### 🧱 **Data Engineering & Platforms**
+- **SQL & Warehousing:** Snowflake, PostgreSQL, MySQL  
+- **Cloud:** Microsoft Azure (ML tooling + data services), AWS (S3 + ecosystem), basic Kubernetes familiarity  
+- **Pipelines/Orchestration:** ETL patterns, logging/observability mindset, Git-based workflows, CI/CD exposure (e.g., GitLab)  
 
-### 📉 **Data Visualization & Insights**  
-- **Tools:** Tableau, Power BI, Seaborn, Matplotlib, Plotly, NetworkX  
-- **Interactive Dashboards:** Custom KPI visualizations for business intelligence  
+### 📊 **Visualization & Decision Products**
+- **BI:** Tableau (dashboarding, stakeholder delivery), Power BI  
+- **Python Viz:** Matplotlib, Plotly  
+- **Data Storytelling:** KPI frameworks, “influence-the-room” exec views, drill-down analytics  
 
-### 🔬 **Experimentation & Statistical Modeling**  
-- **A/B Testing & Hypothesis Testing**  
-- **Bayesian Statistics & Multivariate Analysis**  
-- **Graph-Based Recommender Systems**  
+### 🧰 **Programming**
+- **Languages:** Python, SQL (primary); R (supporting)  
+
+---
+
+## ⭐ SELECTED IMPACT (RECENT)
+- Built **modular forecasting pipelines** (e.g., per Operator × Game) with consistent evaluation and tuning loops.  
+- Integrated model outputs into **Tableau dashboards** so forecasts directly supported business decisions.  
+- Created analytics products including **revenue drop detection**, **purchase segmentation**, **cross-sell origin analysis**, and **new-launch benchmarking** views.  
 
 ---
 
 ## 🚀 MISSION  
 
-Building **scalable AI systems** and **intelligent data pipelines** that drive **automation, efficiency, and innovation**.  
-Dedicated to **harnessing the power of data**, refining **predictive analytics**, and leveraging **cutting-edge AI techniques** to solve real-world challenges.  
+To build **reliable, scalable ML systems** and **business-first analytics** that turn raw data into action—forecasting what’s next, detecting what’s wrong, and making insights easy to use across teams.  
 
-💡 *"Turning raw data into actionable intelligence—one model at a time."*  
+💡 *“Operationalize the model. Earn trust with metrics. Deliver outcomes—not just outputs.”*

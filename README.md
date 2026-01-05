@@ -1,6 +1,6 @@
 <div align="center">
 
-# Anand ✨
+# Anand Shah 
 
 **Data Scientist / ML Engineer** building calm, reliable systems — and tools that make complexity easier to see.
 

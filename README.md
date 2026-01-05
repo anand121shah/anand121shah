@@ -1,50 +1,71 @@
-# Anand Shah  
+<div align="center">
 
-[🔗 Connect on LinkedIn](https://www.linkedin.com/in/anand-shah-ds)
+# Anand ✨
 
-## 📝 PROFILE SUMMARY  
+**Data Scientist / ML Engineer** building calm, reliable systems — and tools that make complexity easier to see.
 
-Tech professional focused on **ML Operations**, **forecasting pipelines**, and **decision-ready analytics**. I build **modular, scalable ML workflows**—from data ingestion and feature engineering to model evaluation, deployment patterns, and stakeholder-facing dashboards—so teams can trust and operationalize predictions.  
+<br/>
 
-My recent work centers on **time series forecasting**, **revenue/behavior analytics**, and **production-minded practices** (versioning, QA, monitoring metrics, and automation), with strong hands-on execution across **Python, SQL, cloud platforms (Azure/AWS), and Snowflake**.  
+![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=ffd43b)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![MLOps](https://img.shields.io/badge/MLOps-0f172a?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
+![Local-first](https://img.shields.io/badge/Local--first-0b1220?style=for-the-badge&logo=protondrive&logoColor=ffffff)
 
----
+<br/>
 
-## 🧩 TECHNICAL SKILLS  
+<a href="https://anandshah.blog">Website</a> •
+<a href="https://github.com/anand121shah">GitHub</a>
 
-### 🤖 **Machine Learning & MLOps**
-- **Modeling:** Regression, Classification, Clustering, Anomaly Detection  
-- **Time Series:** Prophet, ARIMA-style methods, backtesting, error tracking (e.g., MAPE)  
-- **MLOps Practices:** modular pipeline design, model QA, monitoring/metrics, reproducible experiments, CI/CD awareness  
-
-### 🧠 **Analytics & Experimentation**
-- **Statistical Inference:** hypothesis testing, confidence intervals, segmentation, cohort/retention analysis  
-- **Experimentation:** A/B testing design & interpretation, bias/variance thinking, KPI definition  
-
-### 🧱 **Data Engineering & Platforms**
-- **SQL & Warehousing:** Snowflake, PostgreSQL, MySQL  
-- **Cloud:** Microsoft Azure (ML tooling + data services), AWS (S3 + ecosystem), basic Kubernetes familiarity  
-- **Pipelines/Orchestration:** ETL patterns, logging/observability mindset, Git-based workflows, CI/CD exposure (e.g., GitLab)  
-
-### 📊 **Visualization & Decision Products**
-- **BI:** Tableau (dashboarding, stakeholder delivery), Power BI  
-- **Python Viz:** Matplotlib, Plotly  
-- **Data Storytelling:** KPI frameworks, “influence-the-room” exec views, drill-down analytics  
-
-### 🧰 **Programming**
-- **Languages:** Python, SQL (primary); R (supporting)  
+</div>
 
 ---
 
-## ⭐ SELECTED IMPACT (RECENT)
-- Built **modular forecasting pipelines** (e.g., per Operator × Game) with consistent evaluation and tuning loops.  
-- Integrated model outputs into **Tableau dashboards** so forecasts directly supported business decisions.  
-- Created analytics products including **revenue drop detection**, **purchase segmentation**, **cross-sell origin analysis**, and **new-launch benchmarking** views.  
+## What I do
+
+- **Machine Learning & MLOps:** evaluation, monitoring, deployment-minded modeling, lifecycle automation  
+- **Data Engineering:** pipelines, warehousing patterns, reproducible data workflows  
+- **Analytics Products:** KPIs, dashboards, decision-ready insights that don’t fall apart in production  
+- **Applied AI Tooling:** useful, maintainable developer experiences (not just demos)
 
 ---
 
-## 🚀 MISSION  
+## Highlights
 
-To build **reliable, scalable ML systems** and **business-first analytics** that turn raw data into action—forecasting what’s next, detecting what’s wrong, and making insights easy to use across teams.  
+- Bias toward **simplicity that ships**: fewer moving parts, clearer behavior, easier maintenance  
+- Design for **operability**: observability, versioning, rollback-friendly workflows  
+- Strong foundation in **Python + SQL** with practical systems thinking  
+- Documentation style: **clean, structured, and human-readable**
 
-💡 *“Operationalize the model. Earn trust with metrics. Deliver outcomes—not just outputs.”*
+---
+
+## Featured open source
+
+### 🧭 CodeAtlas — Local AI Architecture Diagrams (VS Code)
+Transform your codebase into interactive architecture diagrams using local AI models.  
+All processing happens locally using **Ollama** — your code never leaves your machine.
+
+➡️ https://github.com/anand121shah/CodeAtlas
+
+---
+
+### 📦 RDS — Reports Delivery Service
+A platform designed to automate and manage the distribution of data insights.
+
+➡️ https://github.com/anand121shah/RDS
+
+---
+
+## Writing & learning
+
+I write about practical, real-world engineering and ML systems—especially the parts that make things **reliable and explainable**.
+
+📚 https://anandshah.blog
+
+---
+
+## Let’s connect
+
+- 🌐 Website: https://anandshah.blog  
+- 🧑‍💻 GitHub: https://github.com/anand121shah  
+
+If something here is useful, a ⭐ on the repos is appreciated.
